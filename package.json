@@ -6,7 +6,6 @@
   "license": "ISC",
   "author": "hyunsoo-k",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "start": "nodemon api/index.js"
   },
